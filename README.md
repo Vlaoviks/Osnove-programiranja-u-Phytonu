@@ -1,2 +1,2 @@
-# Osnove-programiranja-u-Phytonu
+Modul Osnove programiranja u Pytonu
 

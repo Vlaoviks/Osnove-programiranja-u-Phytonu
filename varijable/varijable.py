@@ -30,3 +30,7 @@ cijena_struje= 0.56
 mjesecna_upotreba = dnevna_upotreba * 30
 mjesecna_potrosnja = mjesecna_upotreba * snaga_mikrovalne
 mjesecni_trosak = mjesecna_potrosnja * cijena_struje
+
+broj = 5
+broj = False
+print(type(broj))
